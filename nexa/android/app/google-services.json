@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546827534343",
+    "firebase_url": "https://nexa-f3434.firebaseio.com",
+    "project_id": "nexa-f3434",
+    "storage_bucket": "nexa-f3434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546827534343:android:6472be429656de90",
+        "android_client_info": {
+          "package_name": "com.example.nexa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546827534343-umt1rgrtrqj42kuc7m97p0hs5slcm6a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJEy3K4fKq-hA4_dJB1VCKtokfglvASk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546827534343-umt1rgrtrqj42kuc7m97p0hs5slcm6a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
