@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 
 void main()=>runApp(MaterialApp(
   debugShowCheckedModeBanner: false,
-  home: Home(),
+  home: MyApp(),
   
 ));
 
-class Home extends StatelessWidget {
+class MyApp extends StatelessWidget {
   Widget textSection=Container(
     child: Column(
       children: <Widget>[
