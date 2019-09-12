@@ -1,0 +1,31 @@
+[
+  {
+    "name":"Ankit",
+    "age": "22",
+    "place": "Bhopal",
+    "gender": "male",
+    "hair_color": "Black"
+  },
+  {
+    "name":"Deepak",
+    "age": "22",
+    "place": "Bhopal",
+    "gender": "male",
+    "hair_color": "Black"
+  },
+  {
+    "name":"Amrish",
+    "age": "22",
+    "place": "Bhopal",
+    "gender": "male",
+    "hair_color": "Black"
+  },
+  {
+    "name":"arjun",
+    "age": "22",
+    "place": "Bhopal",
+    "gender": "male",
+    "hair_color": "Black"
+  }
+
+]
